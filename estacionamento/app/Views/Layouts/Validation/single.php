@@ -1,0 +1,1 @@
+<span class="help-block text-danger"><strong><?php echo esc($error); ?></strong></span>
